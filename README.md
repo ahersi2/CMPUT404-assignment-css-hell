@@ -1,6 +1,6 @@
 
 Modifications made to the project gutenberg HTML files:
-    -	Added background image 
+    -   Added background image 
     -	Made the background image cover the whole browser so when you scroll, only text moves, not the background
     -	Changed font to "Palatino Linotype", "Book Antiqua", Palatino, serif, for both headers and paragraphs
     -	Changed font size to make it more readable 
